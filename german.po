@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: german\n"
 "POT-Creation-Date: 2020-08-23 22:58\n"
-"PO-Revision-Date: 2020-10-31 09:37+0100\n"
+"PO-Revision-Date: 2020-10-31 13:58+0100\n"
 "Language-Team: \n"
 "Language: de_DE\n"
 "MIME-Version: 1.0\n"
@@ -321,7 +321,7 @@ msgstr "Du brauchst ein Bad. Komm jetzt, komm mit deinem Körper zwischen meine 
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimePlay1.Default__MegaSlimePlay1_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",07B2E95342A617616201F19B87E3655A"
 msgid "You will feel so good as I milk your cock for all of its delicious semen..."
-msgstr ""
+msgstr "Du wirst dich so gut fühlen, wie ich deinen Schwanz für all sein köstliches Sperma melken werde..."
 
 #. Key:	07F233504BDA1232640FB1846CBFE868
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01.Default__FernDefault01_C.SessionData.Lines(0).Lines
@@ -349,7 +349,7 @@ msgstr "Du darfst meine Wichse haben!"
 #: /Game/Dialogue/Emissary/Default/EmissaryHadSex01.Default__EmissaryHadSex01_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",08A2508F4D57261E790AB8BEA258D6B2"
 msgid "Understand, thou has licked a vagina as old as time itself."
-msgstr ""
+msgstr "Verstehe, du hast eine Vagina geleckt, so alt wie die Zeit selbst."
 
 #. Key:	08DE001E4420BE30688798BF6B70729D
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryCockblockGates.Default__EmissaryCockblockGates_C.SessionData.Lines(4).Lines
@@ -363,7 +363,7 @@ msgstr ""
 #: /Game/Dialogue/DragonMatriarch/Default/DMYourChildren.Default__DMYourChildren_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",0925499D4273278AA298A99B40C4550F"
 msgid "Believe me human, I have birthed many offspring."
-msgstr ""
+msgstr "Glaube mir Mensch, ich habe viele Nachkommen geboren."
 
 #. Key:	093760FD4181D0AA284C4D96884A3801
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeLockedDungeon2.Default__AmberMaeLockedDungeon2_C.SessionData.Lines(1).Lines
@@ -377,7 +377,7 @@ msgstr ""
 #: /Game/Dialogue/Camilla/Default/CamillaFaleneWeek.Default__CamillaFaleneWeek_C.SessionData.Lines(2).Lines
 msgctxt ",094AB3854E6DACE10C94B28ADCB83FE0"
 msgid "The best thing she finds, she brings back here to examine."
-msgstr ""
+msgstr "Das Beste, was sie findet, bringt sie hierher zurück, um es zu untersuchen."
 
 #. Key:	0968DD0D4744523D6AFCEABE502C530F
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R07.Default__FaleneDefault01_R07_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -391,14 +391,14 @@ msgstr "Ich bin so geil, ich kann es nicht mehr aushalten! Spreiz die Beine Mens
 #: /Game/Dialogue/Mirru/Default/MirruHadSex01.Default__MirruHadSex01_C.SessionData.LinesToFemale(4).LinesToFemale
 msgctxt ",099488164DB48F48395E94B86F3EE565"
 msgid "My lust is quickly regenerating, and I would gladly mate with you again."
-msgstr ""
+msgstr "Meine Lust regeneriert sich schnell, und ich würde mich gerne wieder mit dir paaren."
 
 #. Key:	09C95B9C48668D0B269B88826710F912
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryHadSex01.Default__EmissaryHadSex01_C.SessionData.LinesToFuta(2).LinesToFuta
 #: /Game/Dialogue/Emissary/Default/EmissaryHadSex01.Default__EmissaryHadSex01_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",09C95B9C48668D0B269B88826710F912"
 msgid "Is that a comforting feeling?"
-msgstr ""
+msgstr "Ist das ein beruhigendes Gefühl?"
 
 #. Key:	0A1E776A4877D11A8A4716A6FEE789C1
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(7).LinesToMale
@@ -426,7 +426,7 @@ msgstr "Wir sind die nobelste, mächtigste und am meisten gefürchtetste Rasse u
 #: /Game/Dialogue/DragonMatriarch/Default/DMClimaxPeak.Default__DMClimaxPeak_C.SessionData.Lines(3).Lines
 msgctxt ",0B1F283F4C4E0D0752DF53AB312D45F9"
 msgid "I've heard about fertile Bovaur roaming in the south which produce vast quantities of breast milk."
-msgstr ""
+msgstr "Ich habe von fruchtbaren Bovaur Herden im Süden gehört, die riesige Mengen Muttermilch produzieren."
 
 #. Key:	0B2CFD3342EAE68FB552BF9F7876374B
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaHadSex01.Default__NeelaHadSex01_C.SessionData.Lines(2).Lines
@@ -531,7 +531,7 @@ msgstr ""
 #: /Game/Dialogue/Kybele/Default/KybeleCentaur.Default__KybeleCentaur_C.SessionData.Lines(5).Lines
 msgctxt ",0D41FE0947E3B6D0F4FD10AF14FE68BE"
 msgid "For one of the @MONSTER_RACE@ race it is torture!"
-msgstr ""
+msgstr "Für eine der @MONSTER_RACE@ Rasse ist es Folter!"
 
 #. Key:	0DB9C395441D2A229D61EE963260C09C
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.TitanCave.ManageActionMessage
@@ -645,7 +645,7 @@ msgstr "Obwohl wir eine zerstörerische Vergangenheit haben, sind die meisten Kr
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToMale(7).LinesToMale
 msgctxt ",0FAF6E0B4308E0F116E3C3BC117672E3"
 msgid "That creepy golden seraphim, the one in the temple. She appeared only a few days ago, constantly asking to speak with \"the human\"."
-msgstr ""
+msgstr "Dieser gruselige goldene Seraphim, der im Tempel. Sie erschien erst vor wenigen Tagen und bat ständig, mit \"dem Menschen\" zu sprechen."
 
 #. Key:	0FC69F2441505B7DAACAC7807627892D
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R05.Default__FernDefault03_R05_C.SessionData.Lines(1).Lines
@@ -708,7 +708,7 @@ msgstr "Kehre zu mir zurück wenn du eine weibliche Foxin gefangen hast."
 #: /Game/Dialogue/Kybele/Default/KybeleHaveKeystone.Default__KybeleHaveKeystone_C.SessionData.Lines(4).Lines
 msgctxt ",10E4A32B499DC549B6EE719D6FEAFD45"
 msgid "I want a strong mate large enough to please me, a Vulwarg fleshy in the right areas will do."
-msgstr ""
+msgstr "Ich möchte einen starken Partner, groß genug um mich zu befriedigen, ein Vulwarg fleischig an den richtigen Stellen würde es tun."
 
 #. Key:	1101687D48DB923571BCF99F288D40BC
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.Lines(3).Lines
@@ -764,7 +764,7 @@ msgstr "Stecke diesen herrlichen Menschenschwanz tief in meinen Lamia Körper...
 #: /Game/World/Overworld.Overworld:PersistentLevel.CBGate_Jungle.PlaceMessage
 msgctxt ",11A9B90644E91677CD9DEFB4CC831C2C"
 msgid "Sultry Plateau is now accessible."
-msgstr ""
+msgstr "Das Schwüle Plateau ist jetzt zugänglich."
 
 #. Key:	11BBEDC74B6704427E32B6A7F9FB5D77
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchStartShySex.Default__MonarchStartShySex_C.SessionData.LinesToFuta(2).LinesToFuta
@@ -807,14 +807,14 @@ msgstr "Im Herzen sind wir wirklich nur Sucher der Befriedigung!"
 #: [Script Bytecode]
 msgctxt ",1276E5EB4781A0238A9705AC9FEE680E"
 msgid "Keystone acquired."
-msgstr ""
+msgstr "Schlüsselstein erworben."
 
 #. Key:	129A33314E1BA60BA7698394A0DEDCD7
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieHadSex01.Default__CassieHadSex01_C.SessionData.LinesToFuta(3).LinesToFuta
 #: /Game/Dialogue/Cassie/Default/CassieHadSex01.Default__CassieHadSex01_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",129A33314E1BA60BA7698394A0DEDCD7"
 msgid "So many splinters in my back, but it was worth it!"
-msgstr ""
+msgstr "Aua, so viele Splitter im Rücken, aber das war es wert!"
 
 #. Key:	129E92F14686D57C52A26598C5257AF6
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(12).LinesToFemale
@@ -996,14 +996,14 @@ msgstr "Meine Vagina pulsiert..."
 #: /Game/Dialogue/DragonMatriarch/Default/DMMuchEnergy.Default__DMMuchEnergy_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",17A76DB943E2CB6F9ACC2A823244D892"
 msgid "Now I want to mate! I've been slumbering for many days, and I am extremely horny."
-msgstr ""
+msgstr "Jetzt will ich mich paaren! Ich schlummere seit vielen Tage, und nun bin ich extrem geil."
 
 #. Key:	17D6A70C4116B743F6CB26ADEB18DFD0
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex01.Default__MegaSlimeHadSex01_C.SessionData.LinesToFuta(2).LinesToFuta
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex01.Default__MegaSlimeHadSex01_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",17D6A70C4116B743F6CB26ADEB18DFD0"
 msgid "It's been so long since I have tasted warm cum."
-msgstr ""
+msgstr "Es ist so lange her, dass ich warmes Sperma gekostet habe."
 
 #. Key:	186FDC7F49586189532EC29D0F8296D3
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMDefault_RL3.Default__DMDefault_RL3_C.ResponseData(0).ResponseData.BreederPrompt
@@ -1137,14 +1137,14 @@ msgstr "Ich ziehe los um diese Variante zu fangen."
 #: /Game/Dialogue/Cassie/Default/CassieDungeon.Default__CassieDungeon_C.SessionData.Message
 msgctxt ",1BE4B0584A935AE797E21B89CFDDEBF9"
 msgid "A mechanism was repaired."
-msgstr ""
+msgstr "Ein Mechanismus wurde repariert."
 
 #. Key:	1C3E96114020C3F1D5514C998DF520B9
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex01.Default__MegaSlimeHadSex01_C.SessionData.LinesToFuta(4).LinesToFuta
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex01.Default__MegaSlimeHadSex01_C.SessionData.LinesToFuta(4).LinesToFuta
 msgctxt ",1C3E96114020C3F1D5514C998DF520B9"
 msgid "So much excitement for one day, getting sleepy."
-msgstr ""
+msgstr "So viel Aufregung für einen Tag, ich werde müde."
 
 #. Key:	1C71641945A1D7E57E40EEB16FB66E75
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMMuchEnergy.Default__DMMuchEnergy_C.SessionData.LinesToFemale(3).LinesToFemale
@@ -1179,7 +1179,7 @@ msgstr "Alternativ kannst du deine Seelengestalt auch teilweise aufladen indem d
 #: /Game/World/Overworld.Overworld:PersistentLevel.EM_HedonDungeonSwitch.Message
 msgctxt ",1CB51DBE4D43642F605E479B59AC73A0"
 msgid "A mechanism was activated."
-msgstr ""
+msgstr "Ein Mechanismus wurde aktiviert."
 
 #. Key:	1CCC14A74CE9A9AC038704B5BCC41068
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(7).Lines
@@ -1193,7 +1193,7 @@ msgstr "Damit zufriedengestellt, hat die Göttin Welten für ihre Kreationen ers
 #: /Game/Dialogue/Autumn/Default/DryadAboutDryads.Default__DryadAboutDryads_C.SessionData.Lines(0).Lines
 msgctxt ",1CE3D3C14381A71E21FE5C9262A5AB20"
 msgid "Once every 1200 years, the Tree of Bliss will produce a fruit."
-msgstr ""
+msgstr "Einmal alle 1200 Jahre wird der Baum der Glückseligkeit eine Frucht produzieren."
 
 #. Key:	1CF80140486F2A7F4E727D8E50B64B37
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFemale(7).LinesToFemale
@@ -1207,7 +1207,7 @@ msgstr "*Leck* *Leck*"
 #: /Game/Dialogue/Camilla/Default/CamillaDefault02.Default__CamillaDefault02_C.SessionData.Lines(1).Lines
 msgctxt ",1D0919E245DEEDE87FD63C8852480108"
 msgid "I wonder what she brought me this time."
-msgstr ""
+msgstr "Ich frage mich, was sie mir dieses Mal gebracht hat."
 
 #. Key:	1D44F1774A53A6682BEE0BB2C13C2732
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01.Default__CassieDefault01_C.SessionData.Lines(0).Lines
@@ -1235,7 +1235,7 @@ msgstr "Leider kann ich dir nicht mehr beim Sammeln von @MONSTER_RACE@ Flüssigk
 #: /Game/Dialogue/Kybele/Default/KybeleDragonMatriarch.Default__KybeleDragonMatriarch_C.SessionData.Lines(4).Lines
 msgctxt ",1D9FC9EA4EBB827C25C418BF316240BB"
 msgid "This lust is driving me mad human! You have no idea."
-msgstr ""
+msgstr "Diese Lust macht mich verrückt Mensch! Du hast keine Ahnung."
 
 #. Key:	1DA742CA40AC6A3A7EC5B6834EEA93B8
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(2).Lines
@@ -1270,7 +1270,7 @@ msgstr "Gleite mit mir hier hinein, mein Körper ist seidig und gefüllt mit sü
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeVerySad.Default__MegaSlimeVerySad_C.SessionData.Lines(4).Lines
 msgctxt ",1E2A2FC04EF0D4BCC92A3A911348230A"
 msgid "I thought... finally... I would have friends again..."
-msgstr ""
+msgstr "Ich dachte... Endlich... Ich hätte wieder Freunde..."
 
 #. Key:	1E3AD95641E1D41AAA9115A007EDC28A
 #. SourceLocation:	/Game/Dialogue/Cassie/SexScenes/CassieSplintersT.Default__CassieSplintersT_C.SessionData.Lines(2).Lines
@@ -1298,21 +1298,21 @@ msgstr "Was kannst du tun?"
 #: /Game/Dialogue/Cassie/Default/CassieHadSex01.Default__CassieHadSex01_C.SessionData.LinesToFemale(5).LinesToFemale
 msgctxt ",1EB41EAD40088E3874A4E0A7F3C437DC"
 msgid "I need to release again already... you humans have it so easy."
-msgstr ""
+msgstr "Ich muss schon wieder kommen... Ihr Menschen habt es so einfach."
 
 #. Key:	1EB7986D40F6A7B90EB5ADB781104A11
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_RL.Default__LeylannaDefault01_RL_C.ResponseData(6).ResponseData.BreederPrompt
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_RL.Default__LeylannaDefault01_RL_C.ResponseData(6).ResponseData.BreederPrompt
 msgctxt ",1EB7986D40F6A7B90EB5ADB781104A11"
 msgid "How do I access the area under the temple?"
-msgstr ""
+msgstr "Wie kann ich den Bereich unter dem Tempel erreichen?"
 
 #. Key:	1EBEB6D94E78F0B72A365EAD5BD52461
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex01.Default__MegaSlimeHadSex01_C.SessionData.LinesToFuta(5).LinesToFuta
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex01.Default__MegaSlimeHadSex01_C.SessionData.LinesToFuta(5).LinesToFuta
 msgctxt ",1EBEB6D94E78F0B72A365EAD5BD52461"
 msgid "*Yawn*"
-msgstr ""
+msgstr "*Gähnen*"
 
 #. Key:	1EC1BDF8474319018DE2CBA3602448F1
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryBlessedInquiry01_R01.Default__EmissaryBlessedInquiry01_R01_C.SessionData.Lines(1).Lines
@@ -1326,7 +1326,7 @@ msgstr "Ich habe alles Verlangen und jede Emotion überwunden. Dies ist eine der
 #: /Game/Dialogue/Monarch/Default/MonarchHaveKeystone2.Default__MonarchHaveKeystone2_C.SessionData.Lines(2).Lines
 msgctxt ",1EC6ED68400A0EEDE25F8BA9CAB37F8E"
 msgid "T-t-thank you human!"
-msgstr ""
+msgstr "D-d-danke Mensch!"
 
 #. Key:	1EDF51EB413B2D360FB8C6B5AD2E62ED
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot_RL.Default__ParvatiDefault01_Forgot_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -1340,7 +1340,7 @@ msgstr "Schmetterling!"
 #: /Game/World/Events/EM_Keystone.Default__EM_Keystone_C.ActivateMessage
 msgctxt ",1F1CAEA0490338B83DFFE19139FBE3C2"
 msgid "Take Keystone"
-msgstr ""
+msgstr "Schlüsselstein erworben"
 
 #. Key:	1F2830D14059782BF943B5BD1F8A5942
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleTaskFulfilled.Default__KybeleTaskFulfilled_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -1778,7 +1778,7 @@ msgstr ""
 #: /Game/Dialogue/DragonMatriarch/Default/DMMuchEnergy.Default__DMMuchEnergy_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",2811094D446D211B1E656D8729FC40AD"
 msgid "Indeed, so much newfound energy!"
-msgstr ""
+msgstr "In der Tat, so viel neu entdeckte Energie!"
 
 #. Key:	286C68074B4BC23284A19AB99A24049A
 #. SourceLocation:	/Game/Dialogue/Autumn/Default/DryadCherryHelp.Default__DryadCherryHelp_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -1814,7 +1814,7 @@ msgstr "Bist du eine Gesegnete @MONSTER_RACE@?"
 #: /Game/Dialogue/Cassie/Default/CassieDungeon.Default__CassieDungeon_C.SessionData.Lines(5).Lines
 msgctxt ",2A2C90CA4F62D70955E3F3A98524FEAA"
 msgid "*Purr* You made me feel so good... Cassie wants to fix it for you!"
-msgstr ""
+msgstr "*Schnurr* Du hast mich so gut fühlen lassen... Cassie will es für dich reparieren!"
 
 #. Key:	2AA4EC89483BB63996FEBE9BC4E4055A
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow_RL_T.Default__CassieDefault01_Meow_RL_T_C.ResponseData(1).ResponseData.BreederPrompt
@@ -1843,7 +1843,7 @@ msgstr "Winzig: Ungefähr 1,20 Meter groß."
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeAboutOrb.Default__MegaSlimeAboutOrb_C.SessionData.Lines(1).Lines
 msgctxt ",2AE92EB74AEF856F0FE56487E2289FD2"
 msgid "My life was empty and meaningless without it."
-msgstr ""
+msgstr "Mein Leben war leer und bedeutungslos ohne es."
 
 #. Key:	2B2323B74BC7F2E6E2CF40A3E50FEFC2
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_RL_M.Default__FernDefault02_RL_M_C.ResponseData(3).ResponseData.BreederPrompt
@@ -1920,14 +1920,14 @@ msgstr "Foxen-Haus"
 #: /Game/Dialogue/Autumn/Default/DryadAboutDryads.Default__DryadAboutDryads_C.SessionData.Lines(5).Lines
 msgctxt ",2C85485F41A9CB181E6BF3A7AFBAD94C"
 msgid "Perhaps a little too much... they sure get chubby. Aww... but look how cute they are!"
-msgstr ""
+msgstr "Vielleicht ein bisschen zu viel... sie werden sicher mollig. Aww... aber schau wie niedlich sie sind!"
 
 #. Key:	2CBC22E04FC3D2621685D7A54A4B69A8
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleGreeting01.Default__KybeleGreeting01_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Kybele/Default/KybeleGreeting01.Default__KybeleGreeting01_C.SessionData.Lines(0).Lines
 msgctxt ",2CBC22E04FC3D2621685D7A54A4B69A8"
 msgid "None may pass!"
-msgstr ""
+msgstr "Keiner darf passieren!"
 
 #. Key:	2CCE0ADD406CF961196E5BAEDA387652
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(0).Lines
@@ -1948,14 +1948,14 @@ msgstr "Ich denke es ist nicht mehr nötig mich zu füttern, aber wir können st
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",2D636C78456A78C86B5305B72E889E11"
 msgid "Human pussy tastes just like I dreamt it would!"
-msgstr ""
+msgstr "Menschliche Muschi schmeckt genau so, wie ich es mir erträumt hatte!"
 
 #. Key:	2D7FF6A641C8DE1EC57F84A825BA2219
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMWantHuman.Default__DMWantHuman_C.SessionData.Lines(3).Lines
 #: /Game/Dialogue/DragonMatriarch/Default/DMWantHuman.Default__DMWantHuman_C.SessionData.Lines(3).Lines
 msgctxt ",2D7FF6A641C8DE1EC57F84A825BA2219"
 msgid "To think I can mate with one... ah... yesss."
-msgstr ""
+msgstr "Zu denken, dass ich mich mit einem paaren kann... Oh... Jaaaa."
 
 #. Key:	2DBE58DB4B0AEBCB9FDD04BC94C039BD
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(5).Lines
@@ -1983,7 +1983,7 @@ msgstr "Ich möchte deine Musik hören."
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",2E166A6948BC2569CE3FCAB659B7FE7D"
 msgid "Maybe my nipples?"
-msgstr ""
+msgstr "Vielleicht meine Nippel?"
 
 #. Key:	2E18B0B24CC860D3136F0CA493EDDD3B
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(0).Lines
@@ -2025,7 +2025,7 @@ msgstr "Wow! Das kann nicht sein!"
 #: /Game/Dialogue/Romy/Default/RomyLockedDungeon.Default__RomyLockedDungeon_C.SessionData.Lines(2).Lines
 msgctxt ",2E8395B6412987FEE6DC3E8FE37DC549"
 msgid "One of extraordinary loneliness and self-loathing."
-msgstr ""
+msgstr "Eine außergewöhnliche Einsamkeit und Selbstverachtung."
 
 #. Key:	2E8D7983446334A29BB4E0BCEFBBC092
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(4).Lines
@@ -2046,14 +2046,14 @@ msgstr "Farn brauchen Menschenmilch um zzzu großer Alraune zu wachsssen! Fauch,
 #: /Game/Dialogue/DragonMatriarch/Default/DMDefault01.Default__DMDefault01_C.SessionData.Lines(1).Lines
 msgctxt ",2EDA99CC46CBEB3206A527B95F55FAB9"
 msgid "Go away human, this is my comfy spot and you can't have it."
-msgstr ""
+msgstr "Geh weg Mensch, das ist mein Lieblingsort und du kannst ihn nicht haben."
 
 #. Key:	2EF1966C455529B6A75289AD5EF81C2E
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleTittyPony.Default__KybeleTittyPony_C.SessionData.LinesToFuta(0).LinesToFuta
 #: /Game/Dialogue/Kybele/Default/KybeleTittyPony.Default__KybeleTittyPony_C.SessionData.LinesToFuta(0).LinesToFuta
 msgctxt ",2EF1966C455529B6A75289AD5EF81C2E"
 msgid "That's it human, you have annoyed me long enough. Get against that rock and prepare to be smashed."
-msgstr ""
+msgstr "Das war's Mensch, du hast mich lange genug genervt. Lehne dich gegen diesen Felsen und mach dich bereit zerfickt zu werden."
 
 #. Key:	2EF454D94FCEA805F55F20A94627C808
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFuta(6).LinesToFuta
@@ -12159,7 +12159,7 @@ msgstr "Glückwünsch, {0} hat Nachkommen in die Welt gesetzt!"
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:108
 msgctxt "BreedingSession,AdvanceButtonTitle"
 msgid "Advance"
-msgstr "verbessern/erweitern"
+msgstr "Weiter"
 
 #. Key:	BreedButtonTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:100
