@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: german\n"
 "POT-Creation-Date: 2020-08-23 22:58\n"
-"PO-Revision-Date: 2020-10-31 13:58+0100\n"
+"PO-Revision-Date: 2020-10-31 22:28+0100\n"
 "Language-Team: \n"
 "Language: de_DE\n"
 "MIME-Version: 1.0\n"
@@ -1453,7 +1453,7 @@ msgstr ""
 #: /Game/Dialogue/DragonMatriarch/Default/DMGreeting01.Default__DMGreeting01_C.SessionData.Lines(6).Lines
 msgctxt ",213C826F44FC31430F08EE8F97663F9A"
 msgid "Go play with the wild dragons, I'm sure they would love to get to know you better."
-msgstr ""
+msgstr "Geh mit den wilden Drachen spielen, ich bin mir sicher, sie würden es lieben dich besser kennen zu lernen."
 
 #. Key:	217058F6486D81B1085B329585491A13
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 - Value).TraitIcons.HelpText
@@ -1496,7 +1496,7 @@ msgstr "Bist du hierher gekommen, um Liebe mit mir zu machen?"
 #: /Game/Dialogue/Monarch/Default/MonarchHaveKeystone.Default__MonarchHaveKeystone_C.SessionData.Lines(3).Lines
 msgctxt ",221EB3E64F8474A44715CA969A344204"
 msgid "The wild @MONSTER_RACE@ around here are so big and s-s-strong."
-msgstr ""
+msgstr "Die wilden @MONSTER_RACE@ hier sind so groß und s-s-stark."
 
 #. Key:	2232F66F4BB565CC2A75538123292067
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(19).LinesToMale
@@ -1545,7 +1545,7 @@ msgstr "Verwalte deine Bovauren"
 #: /Game/Dialogue/Leylanna/Default/LeylannaOldTempleDungeon1.Default__LeylannaOldTempleDungeon1_C.SessionData.Lines(0).Lines
 msgctxt ",233ACAAA4B9A80E38B57579ACF78F5DF"
 msgid "Sooooo very high human."
-msgstr ""
+msgstr "Soooooooo high Mensch."
 
 #. Key:	2341F9304FDFA81B77486F840A0E749C
 #. SourceLocation:	/Game/Ranch/Upgrades/MuttHut.Default__MuttHut_C.Upgrade.Description
@@ -1630,7 +1630,7 @@ msgstr "Stoisch: Erhöht die maximale Lust um 20%."
 #: /Game/Dialogue/Autumn/Default/DryadDefault01_RL.Default__DryadDefault01_RL_C.ResponseData(4).ResponseData.BreederPrompt
 msgctxt ",2501139743DDD3B68A226FB25573A87A"
 msgid "Yum... can I have the keystone now?"
-msgstr ""
+msgstr "Lecker... kann ich jetzt den Schlüsselstein haben?"
 
 #. Key:	25085F2F407D8D979CA1B39E030426E5
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_RL.Default__LeylannaDefault01_RL_C.ResponseData(3).ResponseData.BreederPrompt
@@ -1651,14 +1651,14 @@ msgstr ""
 #: /Game/Dialogue/Kybele/Default/KybeleAnyMeans.Default__KybeleAnyMeans_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",25580E6145BF9216DA12689E0973DCD0"
 msgid "I am a well trained centaur warmaiden, you would not stand a chance."
-msgstr ""
+msgstr "Ich bin eine gut ausgebildete Zentauren-Kriegerin, du hättest keine Chance."
 
 #. Key:	2562C2DF4A1E2558709AB9BF6D7F7974
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaHadSex01.Default__NeelaHadSex01_C.SessionData.Lines(3).Lines
 #: /Game/Dialogue/Neela/Default/NeelaHadSex01.Default__NeelaHadSex01_C.SessionData.Lines(3).Lines
 msgctxt ",2562C2DF4A1E2558709AB9BF6D7F7974"
 msgid "You don't have to run off now do you? Stay awhile... and..."
-msgstr ""
+msgstr "Du musst jetzt nicht davonlaufen oder? Bleib eine Weile... Und..."
 
 #. Key:	25D626114231ECB08961C6AB69737AE1
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_UpHere.Default__RomyDefault01_UpHere_C.SessionData.Lines(1).Lines
@@ -1672,7 +1672,7 @@ msgstr "Es muss dir komisch erscheinen, dass du der einzige deiner Art bist, nie
 #: /Game/World/Overworld.Overworld:PersistentLevel.CBGate_Cove.BlockMessage
 msgctxt ",25F0F67B48B7F4AEF73F849ED76DC655"
 msgid "Roots block this gate."
-msgstr ""
+msgstr "Wurzeln blockieren dieses Tor."
 
 #. Key:	2632B36446A9D5F9E018209CB73837B8
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 - Value).TraitIcons.DisplayName
@@ -1687,7 +1687,7 @@ msgstr "Mächtige Statur"
 #: /Game/Dialogue/Camilla/Default/CamillaHadSex02.Default__CamillaHadSex02_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",268AD0D344A4D1238CEC5798F2ED5EF0"
 msgid "If you... uh... ever get desperate again, you know where to find me!"
-msgstr ""
+msgstr "Wenn du... Äh... jemals wieder Einsam bist, weisst du, wo du mich zu finden kannst!"
 
 #. Key:	26BF34E64E91FAF8BA6ACF94AB76AB90
 #. SourceLocation:	/Game/Dialogue/Emissary/SexScenes/EmissaryAngelGroinLove.Default__EmissaryAngelGroinLove_C.SessionData.LinesToMale(2).LinesToMale
@@ -1722,7 +1722,7 @@ msgstr "Wie kann ich euch sonst noch weiterhelfen, Mensch?"
 #: /Game/Dialogue/Monarch/Default/MonarchHadSex01.Default__MonarchHadSex01_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",274F1AF94ECA42FE2B8A2E8E36BB6611"
 msgid "*Blush*"
-msgstr ""
+msgstr "*Erröten*"
 
 #. Key:	27565BD64B41A94885451F8607E68D2F
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.CBGate_Pastures.PlaceMessage
@@ -2172,7 +2172,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/Default/FernHadSex01.Default__FernHadSex01_C.SessionData.Lines(0).Lines
 msgctxt ",30940E7C46EDA0BA71E783B92668ECFD"
 msgid "Mmmm... mastah tasty!"
-msgstr ""
+msgstr "Mmmm... mastah lecker!"
 
 #. Key:	309ABB3C4016F9879A6955B2D2BD5AE8
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleAnyMeans.Default__KybeleAnyMeans_C.SessionData.LinesToFuta(3).LinesToFuta
@@ -2193,7 +2193,7 @@ msgstr "Meine Schamlippen sind heilig und magisch. Möge eure Zunge durch ihre G
 #: /Game/Dialogue/DragonMatriarch/Default/DMLame.Default__DMLame_C.SessionData.Lines(0).Lines
 msgctxt ",30B4EDAF4D579766E7CE6082217D4CAC"
 msgid "*Yawwwwwwn*"
-msgstr ""
+msgstr "*Gäääääääähn*"
 
 #. Key:	3101A3934639560426484AA6C6AAE3A1
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_R02.Default__FernDefault01_R02_C.SessionData.Lines(0).Lines
@@ -11439,7 +11439,7 @@ msgstr "Obwohl ich schon 4000 Jahre durch die Leere reise, habe ich unseren sage
 #: /Game/Dialogue/Autumn/Default/DryadCherryHelp.Default__DryadCherryHelp_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",FBC59E69493451F2A30A66818584F9BC"
 msgid "Ohhh how I've waited for this."
-msgstr ""
+msgstr "oh, wie ich darauf gewartet habe."
 
 #. Key:	FBE363A241E1A6C5172380A2F5CAFD27
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleGreeting01.Default__KybeleGreeting01_C.SessionData.Lines(1).Lines
@@ -11596,7 +11596,7 @@ msgstr "*Schnurr*"
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimePlay1.Default__MegaSlimePlay1_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",FEB03B36414C543E3D3737B9AB198545"
 msgid "*Yawn* Might need a nap after we make love again."
-msgstr ""
+msgstr "*Gähn* Ich könnte ein Nickerchen brauchen, nachdem wir wieder Liebe machen."
 
 #. Key:	FEB3BE874AC81C2B63FD03953371A656
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeVerySad.Default__MegaSlimeVerySad_C.SessionData.Lines(2).Lines
@@ -11695,7 +11695,7 @@ msgstr "Nicht genug Seelenenergie."
 #: Source/Radiant/Public/Characters/Breeder/SexyBreederController.cpp:663
 msgctxt "ASexyBreederController,NoKeystones"
 msgid "A keystone is required."
-msgstr ""
+msgstr "Ein Schlüsselstein ist erforderlich."
 
 #. Key:	IncestMessage
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:328
@@ -11751,7 +11751,7 @@ msgstr "Futas sind ausgeschalten."
 #: Source/Radiant/Public/Characters/Dialogue/SexyDialogueSystem.cpp:292
 msgctxt "ASexyDialogueSystem,PostBreedingTask"
 msgid "A special breeding task has been added."
-msgstr ""
+msgstr "Eine spezielle Zuchtaufgabe wurde hinzugefügt."
 
 #. Key:	SpiritForm
 #. SourceLocation:	Source/Radiant/Public/Game/SexyGameMode.cpp:377
@@ -12038,7 +12038,7 @@ msgstr ""
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:337
 msgctxt "ASexyWorldSystem,MilkFluid"
 msgid "Milk"
-msgstr ""
+msgstr "Milch"
 
 #. Key:	MonarchMateTask
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:462
@@ -12066,28 +12066,28 @@ msgstr ""
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:537
 msgctxt "ASexyWorldSystem,NotEnoughMilk"
 msgid "More milk is required."
-msgstr ""
+msgstr "Es wird mehr Milch benötigt."
 
 #. Key:	NotEnoughSemen
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:543
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:543
 msgctxt "ASexyWorldSystem,NotEnoughSemen"
 msgid "More semen is required."
-msgstr ""
+msgstr "Mehr Sperma ist erforderlich."
 
 #. Key:	SemenFluid
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:327
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:327
 msgctxt "ASexyWorldSystem,SemenFluid"
 msgid "Semen"
-msgstr ""
+msgstr "Sperma"
 
 #. Key:	TaskFullfilled
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:597
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:597
 msgctxt "ASexyWorldSystem,TaskFullfilled"
 msgid "Task fulfilled."
-msgstr ""
+msgstr "Aufgabe erfüllt."
 
 #. Key:	TaskRefresh
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:213
@@ -12105,6 +12105,9 @@ msgid ""
 "{1}\n"
 "Level {2}\n"
 msgstr ""
+"{0}\n"
+"{1}\n"
+"Level {2}\n"
 
 #. Key:	TraitRequirementFluid
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:340
@@ -12114,6 +12117,8 @@ msgid ""
 "{0} {1}\n"
 "{2}ml\n"
 msgstr ""
+"{0} {1}\n"
+"{2}ml\n"
 
 #. Key:	TraitRequirementStat
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:364
@@ -12125,6 +12130,10 @@ msgid ""
 "Level {2}\n"
 "{3}"
 msgstr ""
+"{0}\n"
+"{1}\n"
+"Level {2}\n"
+"{3}"
 
 #. Key:	Activate
 #. SourceLocation:	Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:179
@@ -13207,7 +13216,7 @@ msgstr "Auftrag erfüllen?"
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:111
 msgctxt "ConfirmationBox,FulfillFluidConfirm"
 msgid "Fluids will be removed from your inventory."
-msgstr ""
+msgstr "Flüssigkeiten werden aus deinem Inventar entfernt."
 
 #. Key:	NewGameConfirm
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:83
@@ -14026,21 +14035,21 @@ msgstr "Benenne dieses Nachkommen um bevor du es deiner Farm hinzufügst."
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:353
 msgctxt "Radiant,Female"
 msgid "Female"
-msgstr ""
+msgstr "Weiblich"
 
 #. Key:	Futa
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:356
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:356
 msgctxt "Radiant,Futa"
 msgid "Futa"
-msgstr ""
+msgstr "Futa"
 
 #. Key:	Male
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:359
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:359
 msgctxt "Radiant,Male"
 msgid "Male"
-msgstr ""
+msgstr "Männlich"
 
 #. Key:	NullText
 #. SourceLocation:	Source/Radiant/Public/Data/SexyData.h:2402
@@ -14716,7 +14725,7 @@ msgstr "Alter Stein des Ruhms"
 #: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:117
 msgctxt "SSexyGenericMenu,DailyTasksTitle"
 msgid "Daily"
-msgstr ""
+msgstr "Täglich"
 
 #. Key:	FulfillButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:173
@@ -14737,7 +14746,7 @@ msgstr "Belohnung für diesen Auftrag annehmen."
 #: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:127
 msgctxt "SSexyGenericMenu,SpecialTasksTitle"
 msgid "Special Requests"
-msgstr ""
+msgstr "Sonderwünsche"
 
 #. Key:	TaskMonsterWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:183
@@ -15066,7 +15075,7 @@ msgstr "Futas benutzen SS TG."
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:830
 msgctxt "SSexySettingsMenu,ProudMother"
 msgid "Your mother would be so proud."
-msgstr ""
+msgstr "Deine Mutter wäre so stolz."
 
 #. Key:	SizePairs
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexySexPositionDetails.cpp:25
@@ -15080,14 +15089,14 @@ msgstr "Paare mit Szene"
 #: Source/Radiant/Public/UI/Components/SexyTaskGridItem.cpp:231
 msgctxt "SSexyTaskGridItem,DaysRemaining"
 msgid "Days remaining: {0}"
-msgstr ""
+msgstr "Verbleibende Tage: {0}"
 
 #. Key:	Reward
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyTaskGridItem.cpp:151
 #: Source/Radiant/Public/UI/Components/SexyTaskGridItem.cpp:151
 msgctxt "SSexyTaskGridItem,Reward"
 msgid "Reward:"
-msgstr ""
+msgstr "Belohnung:"
 
 #. Key:	FavorTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:1024
